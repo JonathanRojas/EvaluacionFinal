@@ -1,14 +1,15 @@
-# Descripcion del proyecto
+## Descripcion del proyecto
 
-## Cada persona crea una rama con su nombre
+1. Cada persona crea en su rama el archivo musicaFavorita.txt con su gusto musical y lo sube en su rama.
 
-Cada persona crea en su rama el archivo musicaFavorita.txt con su gusto musical y lo sube.
-Luego se fusionan las ramas.
+2. Cada integrante fusiona su rama con main.
 
-# Integrantes / Usuario GitHub
+3. Finalmente quedan en la rama principal los gustos de cada integrante.
 
-### Alex Candia - candia666 
-### Daniel Toro - dani93t 
-### Gianni Rivera - bleanys 
-### Pablo Olivares - olivarespablo 
-### Jonathan Rojas - JonathanRojas
+### Integrantes - Usuario GitHub
+
+#### Alex Candia - candia666 
+#### Daniel Toro - dani93t 
+#### Gianni Rivera - bleanys 
+#### Pablo Olivares - olivarespablo 
+#### Jonathan Rojas - JonathanRojas
