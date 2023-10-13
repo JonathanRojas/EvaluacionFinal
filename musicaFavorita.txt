@@ -1,2 +1,7 @@
-Pablete:
- - La cumbia me divierte y mesita
+#Agregar música favorita de cada uno
+black metal del rudo
+Daniel: Musica 90's
+
+Gianni: Me gusta la música rock chilena.
+Jonathan: Rock
+Pablete: La cumbia me  divierte y mesita
